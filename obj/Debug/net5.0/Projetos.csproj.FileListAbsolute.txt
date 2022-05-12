@@ -1,0 +1,16 @@
+C:\Users\Narlson\Desktop\DIO\Projetos\bin\Debug\net5.0\Projetos.exe
+C:\Users\Narlson\Desktop\DIO\Projetos\bin\Debug\net5.0\Projetos.deps.json
+C:\Users\Narlson\Desktop\DIO\Projetos\bin\Debug\net5.0\Projetos.runtimeconfig.json
+C:\Users\Narlson\Desktop\DIO\Projetos\bin\Debug\net5.0\Projetos.runtimeconfig.dev.json
+C:\Users\Narlson\Desktop\DIO\Projetos\bin\Debug\net5.0\Projetos.dll
+C:\Users\Narlson\Desktop\DIO\Projetos\bin\Debug\net5.0\ref\Projetos.dll
+C:\Users\Narlson\Desktop\DIO\Projetos\bin\Debug\net5.0\Projetos.pdb
+C:\Users\Narlson\Desktop\DIO\Projetos\obj\Debug\net5.0\Projetos.csproj.AssemblyReference.cache
+C:\Users\Narlson\Desktop\DIO\Projetos\obj\Debug\net5.0\Projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narlson\Desktop\DIO\Projetos\obj\Debug\net5.0\Projetos.AssemblyInfoInputs.cache
+C:\Users\Narlson\Desktop\DIO\Projetos\obj\Debug\net5.0\Projetos.AssemblyInfo.cs
+C:\Users\Narlson\Desktop\DIO\Projetos\obj\Debug\net5.0\Projetos.csproj.CoreCompileInputs.cache
+C:\Users\Narlson\Desktop\DIO\Projetos\obj\Debug\net5.0\Projetos.dll
+C:\Users\Narlson\Desktop\DIO\Projetos\obj\Debug\net5.0\ref\Projetos.dll
+C:\Users\Narlson\Desktop\DIO\Projetos\obj\Debug\net5.0\Projetos.pdb
+C:\Users\Narlson\Desktop\DIO\Projetos\obj\Debug\net5.0\Projetos.genruntimeconfig.cache
